@@ -30,7 +30,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Patrick Njiru](https://patrick-dev-portfolio-omega.vercel.app/#)
+- Website - [Patrick Njiru](https://patrick-dev-portfolio-omega.vercel.app)
 - Frontend Mentor - [@Patrick-Njiru](https://www.frontendmentor.io/profile/yourusername)
 - LinkedIn - [@Patrick Njiru](www.linkedin.com/in/patrick-njiru-7569241ba)
 
